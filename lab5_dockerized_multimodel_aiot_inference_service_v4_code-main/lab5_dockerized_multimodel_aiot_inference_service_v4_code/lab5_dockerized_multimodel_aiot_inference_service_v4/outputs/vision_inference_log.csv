@@ -1,0 +1,6 @@
+timestamp_utc,endpoint,filename,content_type,status,top1_class,top1_confidence,inference_time_ms
+2026-06-09T01:16:08.314500+00:00,/classify-image,meeus.jpg,image/jpeg,ok,saltshaker,0.084626,22.155
+2026-06-09T01:19:16.675671+00:00,/classify-image,classroom_object.jpg,image/jpeg,ok,desktop computer,0.113012,10.031
+2026-06-09T01:30:07.952581+00:00,/classify-image,classroom_object.jpg,image/jpeg,ok,desktop computer,0.113012,98.206
+2026-06-09T01:37:30.767473+00:00,/classify-image,classroom_object.jpg,image/jpeg,ok,desktop computer,0.113012,84.776
+2026-06-09T01:44:36.637807+00:00,/classify-image,classroom_object.jpg,image/jpeg,ok,desktop computer,0.113012,95.734
